@@ -105,7 +105,7 @@ Prioridade: Baixa <br>
 Descrição: Os ícones dos países, no seletor de “Telefone” do card “Inscreva-se agora!” estão com baixa qualidade. Atualizar os ícones com uma qualidade mais alta. <br>
 Evidência:<img width="1176" height="508" alt="image" src="https://github.com/user-attachments/assets/b776d5b7-1dfb-4e29-b53b-a7d029f65d27" />
 
-Item 14 – Alinhar texto <br>
+Item 14 – Centralizar o conteúdo da seção na página <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
@@ -250,7 +250,7 @@ Item 03 – Ícones de redes sociais no header <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Verificar no Figma se os ícones de redes sociais estão com o tamanho e alinhamento/espaçamento corretos.  <br>
+Descrição: Ajustar espaçamento entre ícones das redes sociais. Verificar no Figma se o tamanho e alinhamento/espaçamento dos ícones estão corretos.  <br>
 Evidência: <br>
 <img width="893" height="232" alt="image" src="https://github.com/user-attachments/assets/b03cf22b-a78f-4182-8ea5-ccb3abb5af32" />
 
@@ -410,20 +410,20 @@ Descrição: O campo ‘Nome’ na seção ‘Não fique de fora!’ precisa de 
 Evidência: <br>
 <img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/e935df15-95be-42ec-b4d3-682c59b5d4e3" />
 
-Item 23 – Botão ‘Concluir’ está inativo  <br>
+Item 23 – Erro ao clicar no botão 'Concluir' <br>
 Tipo: Correção  <br>
 Classificação: Utilidade <br>
 Prioridade: Alta <br>
 Descrição: Na seção ‘Não fique de fora!’ o botão Concluir não está funcionando. Ao clicar nele, um Toast Notification aparece no lado esquerdo da tela. Habilitar o botão para inscrever os usuários na newsletter. <br>
-Evidência: <br>
+Evidência em **.gif:** <br>  
 ![Item 23](https://github.com/user-attachments/assets/bcd9cf0f-3134-4fa3-b699-173ef474ecf6)
 
 Item 24 – Ajustes no botão ‘Concluir’ da seção ‘Não fique de fora!’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Aumentar o espaçamento do botão em relação ao campo ‘Telefone’. Também verificar cor do botão com status disabled, ele poderia ser todo cinza, não apenas o texto. 
-Evidência: <br>
+Descrição: Aumentar o espaçamento do botão em relação ao campo ‘Telefone’. Também verificar a cor do botão com status disabled, ele poderia ser todo cinza, não apenas o texto. <br>
+Evidência: <br>   
 <img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/4cb074e0-1794-49ee-a138-3a0768433dad" />
 
 Item 25 – Responsividade da seção ‘Não fique de fora!’ <br>
@@ -431,7 +431,7 @@ Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Quando o navegador tem o zoom diminuído, uma imagem aparece no plano de fundo. É um ícone de envelope em referência ao e-mail e newletter. Essa imagem aparece parcialmente com zoom em 100%, desaparece com zoom acima de 100% e é redimensionada conforme diminuímos o zoom, aparecendo por completo em zoom de 50%. Verificar com designers qual deveria ser o comportamento esperada da imagem de fundo nesta seção. <br>
-Evidência: <br>
+Evidência em **.gif:** <br>  
 ![Item 25](https://github.com/user-attachments/assets/a0bd63d7-6dea-4d20-a8d9-68ef13b23739)
 
 Item 26 – Ícones com baixa qualidade <br>
@@ -440,6 +440,7 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Os ícones das bandeiras países, no seletor de “Telefone” da seção ‘Não fique de fora!’ estão com baixa qualidade. Atualizar os ícones com uma qualidade mais alta. <br>
 Evidência: <br>
+<img width="1733" height="712" alt="image" src="https://github.com/user-attachments/assets/7db9d714-d645-452a-adfc-66d1e2d4807b" />
 
 Item 27 – Ajuste no título da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
@@ -447,13 +448,15 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: O título dessa seção não segue o padrão dos demais títulos da página, pois está sublinhado. Por favor, remover o sublinhado do título. <br>
 Evidência: <br>
+<img width="1097" height="612" alt="image" src="https://github.com/user-attachments/assets/071ff207-099d-41ec-a5f5-0ba0b4d1cd4c" />
 
 Item 28 – Ajuste nas imagens e textos da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Por favor, ajuste o alinhamento das imagens e textos nos containers (cards). Atualmente o conteúdo está como justify-content: flex-start, mas deve ser alterado para center para garantir a simetria na página. <br>
+Descrição: Por favor, ajuste o alinhamento das imagens e textos nos containers (cards). Deve ser alterado para garantir a simetria na página. <br>
 Evidência: <br>
+<img width="1317" height="777" alt="image" src="https://github.com/user-attachments/assets/b401835a-93d2-4824-9f31-4d7faeea77cf" />
 
 Item 29 – Ajustes nos textos da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
@@ -461,6 +464,8 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Por favor, coloque os depoimentos dos alunos entre aspas duplas e aumente o espaço entre o depoimento e o nome dos alunos, em todos os cards. <br>
 Evidência: <br>
+<img width="1780" height="647" alt="image" src="https://github.com/user-attachments/assets/0387e3b1-6301-475a-a3f6-9e8494717474" />
+
 
 Item 30 – Seção redes sociais <br>
 Tipo: Melhoria <br>
@@ -468,14 +473,30 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: As melhorias necessárias para essa seção serão listadas abaixo: <br>
 a)	Por favor, reduzir o tamanho da fonte das descrições nos cards. A tipografia está muito grande para o espaço disponível; <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/3fc72ca4-cc95-4858-9832-2cee6b5d58cf" />
+
 b)	Ajustar as descrições verticalmente, para que todas fiquem alinhadas; <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/b13d9cef-4453-47d2-bcfd-b29ee559de3a" />
+
 c)	Alterar a imagem da rede social X, removendo o antigo ícone do Twitter; <br>
-d)	Alinhar todos os ícones das redes sociais, verticalmente e horizontalmente, mantendo um mesmo tamanho para todos os ícones; <br>
-e)	Remover última barra (separador), após o ícone da rede social Instagram; <br>
-f)	Ajustar nome do Linkedin para LinkedIn, com ‘i’ maiúsculo; <br>
-g)	Remover quebras de linhas desnecessárias nos textos de descrição; <br>
-h)	Alterar o nome ‘Twitter’ para X. Sugestão ao designer: ‘Siga nosso perfil no X’. <br>
-i)	Ajustar nome do Youtube para YouTube, com ‘t’ maiúsculo; 
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/8bf8d65f-571c-41f9-a82d-0edb69b59031" />
+
+d)	Remover última barra (separador), após o ícone da rede social Instagram; <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/c6aae041-cc31-4f3b-9ce2-17b7591ccc4e" />
+
+e)	Ajustar nome do Linkedin para LinkedIn, com ‘i’ maiúsculo; <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/3b9eed13-7377-4e21-bdb5-9dac12d063aa" />
+
+f)	Remover quebras de linhas desnecessárias nos textos de descrição, a fim de evitar que o espaçamento entre ilnhas fique maior; <br>
+Evidência em **.gif:** <br>  
+<br>
+![Item 30](https://github.com/user-attachments/assets/421e33a4-df6b-4efd-bbf3-d7877ea5da3b)
+
+g)	Alterar o nome ‘Twitter’ para X. Sugestão ao designer: ‘Siga nosso perfil no X’. <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/deb40fb6-fed6-4e75-bd80-6ef527dfa6b3" />
+
+h)	Ajustar nome do Youtube para YouTube, com ‘t’ maiúsculo; 
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/c157d9c1-3de2-4867-ac67-c90547daeadf" />
 
 Item 31 – Verificar nome da faculdade <br>
 Tipo: Melhoria <br>
@@ -483,6 +504,7 @@ Classificação: Usabilidade <br>
 Prioridade: Média <br>
 Descrição: Na seção Redes Sociais, verificar o nome correto da Instituição no card do Facebook. Confirmar se o nome correto é UNIEXEMPLO ou Faculdade Exemplo. <br>
 Evidência: <br>
+<img width="1697" height="284" alt="image" src="https://github.com/user-attachments/assets/1ffa6ddc-ef0b-423c-b87d-8b52d35f3161" />
 
 Item 32 – Ajustes no rodapé secundário <br>
 Tipo: Melhoria <br>
@@ -490,6 +512,7 @@ Classificação: Usabilidade <br>
 Prioridade: Média <br>
 Descrição: Preencher dados incompletos no rodapé secundário: CEP e Telefones aparecem com ‘x’. <br>
 Evidência: <br>
+<img width="1431" height="250" alt="image" src="https://github.com/user-attachments/assets/c0594634-a1c7-4b78-a676-34d243f895dc" />
 
 Item 33 – Redes sociais no rodapé secundário <br>
 Tipo: Melhoria <br>
@@ -497,6 +520,7 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Há 3 referências a redes sociais na página. Temos ícones e links no header, temos uma seção exclusiva para redes sociais e mais uma referência a elas no rodapé secundário. Verificar com os designers a possibilidade de excluir uma ou mais referências. Caso o time decida manter os logos das redes sociais no rodapé secundário, por favor ajustar alinhamentos horizontal e vertical, bem como atualizar os logos para que tenham o mesmo tamanho. Também adicionar o logo do X que não está presente nesse rodapé. <br>
 Evidência: <br>
+<img width="1431" height="250" alt="image" src="https://github.com/user-attachments/assets/19d4988f-6a5e-4407-9931-c706d5b6d661" />
  
 Item 34 – UNIEXEMPLO aparece nos rodapés. <br>
 Tipo: Melhoria <br>
@@ -504,6 +528,7 @@ Classificação: Usabilidade <br>
 Prioridade: Média <br>
 Descrição: A palavra Uniexemplo aparece nos rodapés principal e secundário. Verificar novamente se o nome da instituição está correto e fazer as alterações que forem necessárias.  Além disso, o e-mail de contato informado no rodapé secundário é exemplo@uniex.com.br. Precisamos confirmar se esse é o e-mail correto e atual do cliente. <br>
 Evidência: <br>
+<img width="1431" height="250" alt="image" src="https://github.com/user-attachments/assets/3de4afa7-a050-4132-8d0d-4b38f532dc4d" />
 
 Item 35 – Ajustes no rodapé principal. <br>
 Tipo: Melhoria <br>
@@ -511,13 +536,15 @@ Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Ajustar o texto do rodapé para que os itens ‘Institucional’, ‘Fale Conosco’ e ‘Política de Privacidade’ fiquem corretamente alinhados ao Copyright notice. Verificar no Figma a posição correta desses elementos e tamanhos de fonte. <br>
 Evidência: <br>
+<img width="1431" height="250" alt="image" src="https://github.com/user-attachments/assets/c0a31d68-5c8e-4e5c-9593-270f99b2c112" />
 
 Item 36 – Design dos botões da página <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
 Descrição: Os botões da página não estão padronizados. Eles têm formatos diferentes, com corner-radius diferentes e inclusive, alguns tem formato pill (pílula). Verificar com designers se esses formatos estão corretos ou se devem ser padronizados. <br>
-Evidência: <br>
+Evidências: <br>
+<img width="1107" height="704" alt="image" src="https://github.com/user-attachments/assets/6b749e32-0d31-4faf-930b-da782d2d5af6" />
 
 Item 37 – Contraste de cores no Toast Notification <br>
 Tipo: Melhoria <br>
