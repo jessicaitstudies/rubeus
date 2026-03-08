@@ -234,79 +234,104 @@ Item 01 – Duplicidade de links no header <br>
 Tipo: Correção  <br>
 Classificação: Utilidade <br>
 Prioridade: Média <br>
-Descrição: Há dois links redirecionando o usuário para o WhatsApp no header da página, são eles: Atendimento e WhatsApp. Verificar se ambos devem permanecer na página e qual o link correto para o item Atendimento. 
+Descrição: Há dois links redirecionando o usuário para o WhatsApp no header da página, são eles: Atendimento e WhatsApp. Verificar se ambos devem permanecer na página e qual o link correto para o item Atendimento. <br>
+Evidência: <br>
+<img width="1859" height="1051" alt="image" src="https://github.com/user-attachments/assets/5e2b00ed-b5f9-4204-8ee4-11f8c945640c" />
 
 Item 02 – Verificar ícones no header <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Verificar no Figma se os ícones de ‘Atendimento’ e ‘Whatsapp’ estão corretos no header da página. No momento os ícones parecem muito afastados do label e pequenos em relação ao tamanho da fonte. 
+Descrição: Verificar no Figma se os ícones de ‘Atendimento’ e ‘Whatsapp’ estão corretos no header da página. No momento os ícones parecem muito afastados do label e pequenos em relação ao tamanho da fonte. <br>
+Evidência: <br>
+<img width="893" height="232" alt="image" src="https://github.com/user-attachments/assets/b03cf22b-a78f-4182-8ea5-ccb3abb5af32" />
 
 Item 03 – Ícones de redes sociais no header <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Verificar no Figma se os ícones de redes sociais estão com o tamanho e alinhamento/espaçamento corretos.  
+Descrição: Verificar no Figma se os ícones de redes sociais estão com o tamanho e alinhamento/espaçamento corretos.  <br>
+Evidência: <br>
+<img width="893" height="232" alt="image" src="https://github.com/user-attachments/assets/b03cf22b-a78f-4182-8ea5-ccb3abb5af32" />
 
 Item 04 – Atualizar ícone no header <br>
 Tipo: Correção <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: Ainda aparece o ícone do antigo Twitter no cabeçalho da página. Atualizar para o ícone da rede social X.  
+Descrição: Ainda aparece o ícone do antigo Twitter no cabeçalho da página. Atualizar para o ícone da rede social X.  <br>
+Evidência: <br>
+<img width="955" height="233" alt="image" src="https://github.com/user-attachments/assets/719a9e67-c794-4a2f-ab3b-b90007e35a49" />
 
 Item 05 – Botão ‘Institucional’ no header <br>
 Tipo: Correção <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: Por ser uma atividade de exemplo, de um site de uma faculdade fictícia, o botão ‘Institucional’ encaminha o usuário para a página inicial da Rubeus. Entendo que o correto ao clicar em Institucional não seria ir para a página inicial, mas encaminhar o usuário para o seguinte link: https://rubeus.com.br/sobre-a-rubeus/.
+Descrição: Por ser uma atividade de exemplo, de um site de uma faculdade fictícia, o botão ‘Institucional’ encaminha o usuário para a página inicial da Rubeus. Entendo que o correto ao clicar em Institucional não seria ir para a página inicial, mas encaminhar o usuário para o seguinte link: https://rubeus.com.br/sobre-a-rubeus/. <br>
+Evidência: <br>
+<img width="1863" height="481" alt="image" src="https://github.com/user-attachments/assets/a932b567-1d58-4637-8bd0-33e6e22fa2e6" />
 
 Item 06 – Ícone biblioteca com baixa qualidade <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: O ícone biblioteca está com baixa qualidade e o desenho está pouco legível. Não está claro que o ícone se refere a biblioteca, nem o que é o ícone em si. Sugestão: verificar com designers se há um ícone mais apropriado e com melhor qualidade. 
+Descrição: O ícone biblioteca está com baixa qualidade e o desenho está pouco legível. Não está claro que o ícone se refere a biblioteca, nem o que é o ícone em si. Sugestão: verificar com designers se há um ícone mais apropriado e com melhor qualidade. <br>
+Evidência: <br>
+<img width="1023" height="183" alt="image" src="https://github.com/user-attachments/assets/c710f2fe-1457-4ee8-8fd3-c49064efe712" />
 
 Item 07 – Ajustar botões no header secundário <br>
 Tipo: Nova funcionalidade <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: No header secundário há 3 botões que deveriam redirecionar o usuário para as respectivas páginas. São eles: ‘Nossos diferenciais, ‘Eventos e ‘Depoimentos. Comportamento esperado: Ao clicar em cada um deles, a página deveria automaticamente rolar para baixo até a respectiva seção. No entanto, cada botão encaminha o usuário para sites externos. 
+Descrição: No header secundário há 3 botões que deveriam redirecionar o usuário para as respectivas páginas. São eles: ‘Nossos diferenciais, ‘Eventos e ‘Depoimentos. Comportamento esperado: Ao clicar em cada um deles, a página deveria automaticamente rolar para baixo até a respectiva seção. No entanto, cada botão encaminha o usuário para sites externos. <br>
+Evidência em **.gif:** <br>  
+![Evidência 07](https://github.com/user-attachments/assets/6f753dfa-1789-4140-8119-f01e51423e61)
 
 Item 08 – Ajustar botões no header secundário <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Alinhar verticalmente os itens de navegação e botão ‘Nossos diferenciais’, ‘Eventos’, ‘Depoimentos’ e ‘Falar com Consultor’ em relação ao header secundário, para que fiquem centralizados, e também em relação ao logo da faculdade que está à esquerda.
+Descrição: Alinhar verticalmente os itens de navegação e botão ‘Nossos diferenciais’, ‘Eventos’, ‘Depoimentos’ e ‘Falar com Consultor’ em relação ao header secundário, para que fiquem centralizados, e também em relação ao logo da faculdade que está à esquerda. <br>
+Evidência: <br>
+<img width="1830" height="343" alt="image" src="https://github.com/user-attachments/assets/8867cd4d-16dd-41b7-a9c2-101f39a13ccc" />
 
 Item 09 – Botão ‘Falar com consultor’ <br>
 Tipo: Correção  <br>
 Classificação: Utilidade <br>
 Prioridade: Alta <br>
-Descrição: O botão ‘Falar com consultor’, localizado no header secundário, encaminha o usuário para o WhatsApp na versão web, porém não redireciona para um número de telefone específico da faculdade. O usuário apenas acessa o site https://web.whatsapp.com sem ser direcionado para falar com qualquer telefone comercial. 
+Descrição: O botão ‘Falar com consultor’, localizado no header secundário, encaminha o usuário para o WhatsApp na versão web, porém não redireciona para um número de telefone específico da faculdade. O usuário apenas acessa o site https://web.whatsapp.com sem ser direcionado para falar com qualquer telefone comercial. <br>
+Evidência: <br>
+<img width="1446" height="381" alt="image" src="https://github.com/user-attachments/assets/0ff7df48-7de6-4840-bac3-f40802018115" />
 
 Item 10 – Corrigir links no hero slider <br>
 Tipo: Correção  <br>
 Classificação: Utilidade <br>
 Prioridade: Alta <br>
-Descrição: No Hero Slider há três imagens com os seguintes botões: inscreva-se (graduação), saiba mais (graduação) e inscreva-se (pós-graduação). Nenhum os botões está clicável no momento. Eles devem redirecionar o usuário para página de matrícula e de informações sobre os cursos.
+Descrição: No Hero Slider há três imagens com os seguintes botões: inscreva-se (graduação), saiba mais (graduação) e inscreva-se (pós-graduação). Nenhum dos botões está clicável no momento. Eles devem redirecionar o usuário para página de matrícula e de informações sobre os cursos. <br>
+Evidência: <br>
+![Item 10 (1)](https://github.com/user-attachments/assets/38425a12-aa1f-4c35-825d-7d4e3519777c)
 
 Item 11 – Corrigir acentuação gráfica <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: No ‘Hero Slider’ há duas imagens com a palavra Matricula. Acentuar a palavra corretamente em ambas as imagens: matrícula. 
+Descrição: No ‘Hero Slider’ há duas imagens com a palavra Matricula. Acentuar a palavra corretamente em ambas as imagens: matrícula. <br>
+Evidência: <br>
+<img width="1832" height="1106" alt="image" src="https://github.com/user-attachments/assets/d114a355-1bbc-4d37-9c11-51f95b0f27b9" />
 
 Item 12 – Imagem com sombreamento <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Na terceira imagem do ‘Hero Slider’ há um sombreamento na lateral direita, que não aparece nos outros lados da imagem. Verificar no Figma se está correto. 
+Descrição: Na terceira imagem do ‘Hero Slider’ há um sombreamento na lateral direita, que não aparece nos outros lados da imagem. Verificar no Figma se está correto. <br>
+Evidência:
+<img width="1869" height="619" alt="image" src="https://github.com/user-attachments/assets/abff0988-5712-4ceb-a028-f0792dfe92ce" />
 
 Item 13 – Corrigir transição de imagens no ‘Hero Slider’ <br>
 Tipo: Nova funcionalidade <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: É comum que o ‘hero slider’ alterne sozinho as imagens após alguns segundos. Atualmente o componente está estático e o usuário precisa clicas nas setas para ver todo o conteúdo. Confirmar com desenvolvedores e designers se essa transição automática de imagens deveria acontecer. 
+Descrição: É comum que o ‘hero slider’ alterne sozinho as imagens após alguns segundos. Atualmente o componente está estático e o usuário precisa clicas nas setas para ver todo o conteúdo. Confirmar com desenvolvedores e designers se essa transição automática de imagens deveria acontecer. <br>
+Evidência: Arquivo .gif ficou muito grande para ser anexado. Se necessário, favor solicitar evidência pelo Teams/Slack/E-mail. 
 
 Item 14 – Corrigir texto da descrição da seção <br>
 Tipo: Melhoria <br>
@@ -314,97 +339,128 @@ Classificação: Usabilidade <br>
 Prioridade: Média <br>
 Descrição: Seguem abaixo as sugestões de melhoria: <br>
 a)	Na seção ‘Conheça nossos diferenciais’ há uma menção a UNIEXEMPLO, porém o logo da instituição é Faculdade Exemplo. Investigar o nome correto com desenvolvedores e designers. Há duas hipóteses, ou o logo da Faculdade Exemplo está desatualizado na página, ou o nome UNIEXEMPLO está incorreto. <br>
-b)	Além disso, após a palavra ‘melhor’ há um espaço que não deveria estar sublinhado, por favor remover o sublinhado desse espaço. 
+b)	Além disso, após a palavra ‘melhor’ há um espaço que não deveria estar sublinhado, por favor remover o sublinhado desse espaço. <br>
+Evidência: <br>
+<img width="1730" height="546" alt="image" src="https://github.com/user-attachments/assets/f7ebfc2c-cfeb-492a-87ea-5b1541ead51e" />
 
 Item 15 – Cards na seção ‘Conheça nossos diferenciais’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Verificar no Figma e/ou com designers se a posição da linha que separa o título da descrição dos cards está na posição correta. A linha está muito próxima ao título. 
+Descrição: Verificar no Figma e/ou com designers se a posição da linha que separa o título da descrição dos cards está na posição correta. A linha está muito próxima ao título. <br>
+Evidência: <br>
+<img width="1689" height="553" alt="image" src="https://github.com/user-attachments/assets/18eb5388-a157-4e61-bcb2-7f2561029dc6" />
 
 Item 16 – Ícones dos cards na seção ‘Conheça nossos diferenciais’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Melhorar a qualidade de todos os ícones dos cards da seção.
+Descrição: Melhorar a qualidade de todos os ícones dos cards da seção. <br>
+Evidência de exemplo: <br>
+<img width="1843" height="471" alt="image" src="https://github.com/user-attachments/assets/16db0020-1f96-428a-86c5-63d4706ee903" />
 
 Item 17 – Responsividade da seção ‘Conheça nossos diferenciais’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Por favor, ajustar a responsividade dos cards nessa seção. Quando a página tem o zoom diminuído abaixo de 75%, o terceiro card da seção fica desalinhado dos demais. Card: Pesquisas reconhecidas internacionalmente. Além disso, quando o zoom da página está acima de 100%, o último card também fica desalinhado, o card Laboratórios e equipamentos de ponta.
+Descrição: Por favor, ajustar a responsividade dos cards nessa seção. Quando a página tem o zoom diminuído abaixo de 75%, o terceiro card da seção fica desalinhado dos demais. Card: Pesquisas reconhecidas internacionalmente. Além disso, quando o zoom da página está acima de 100%, o último card também fica desalinhado, o card Laboratórios e equipamentos de ponta. <br>
+Evidência: <br>
+<img width="1842" height="988" alt="image" src="https://github.com/user-attachments/assets/29531353-5992-4cea-a655-8fc7e07bc83a" />
 
 Item 18 – Imagem de fundo da seção ‘Próximos Eventos’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: A imagem de fundo da seção está levemente desfocada. Verificar com os designers se a imagem está correta ou se há outra com qualidade superior.
+Descrição: A imagem de fundo da seção está levemente desfocada. Verificar com os designers se a imagem está correta ou se há outra com qualidade superior. <br>
+Evidência de exemplo: <br>
+<img width="1682" height="476" alt="image" src="https://github.com/user-attachments/assets/c93ffec4-07e3-45cd-aea8-3874f86fc12e" />
 
 Item 19 – Botões da seção ‘Próximos Eventos’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Ajustar o espaçamento entre os botões ‘Inscreva-se agora’ e a descrição dos eventos. Além disso, o ícone de seta nos botões está com baixa qualidade. 
+Descrição: Ajustar o espaçamento entre os botões ‘Inscreva-se agora’ e a descrição dos eventos. Além disso, o ícone de seta nos botões está com baixa qualidade. <br>
+Evidência 1: <br>
+<img width="1729" height="842" alt="image" src="https://github.com/user-attachments/assets/89939296-4567-4db6-80bb-284e3393abf7" />
+
+Evidência 2: <br>
+<img width="1170" height="251" alt="image" src="https://github.com/user-attachments/assets/02005152-8792-4e1c-8076-3070bb3fccd2" />
 
 Item 20 – Ajustar a descrição da seção ‘Não fique de fora!’ <br>
 Tipo: Melhoria <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: Onde se lê: ‘Assine nossa Newsletter, e Receba informações exclusivas da UNIEXEMPLO diretamente em seu e-mail’, remover a vírgula após Newsletter e iniciar a palavra Receba com letra minúscula. Além disso, ajustar o nome da instituição para ‘Faculdade Exemplo’, após verificar o nome correto.
+Descrição: Onde se lê: ‘Assine nossa Newsletter, e Receba informações exclusivas da UNIEXEMPLO diretamente em seu e-mail’, remover a vírgula após Newsletter e iniciar a palavra Receba com letra minúscula. Além disso, ajustar o nome da instituição para ‘Faculdade Exemplo’, após verificar o nome correto. <br>
+Evidência: <br>
+<img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/63a1424b-4ed4-4f1a-bc32-d8270e9d7d3f" />
 
 Item 21 – Padronizar escrita da palavra ‘e-mail’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Há três menções à palavra ‘e-mail’ na página, todas na seção ‘Não fique de fora!’.               Ela aparece com e sem hífen, grafias diferentes, ambas corretas. Definir com os designers um padrão para a palavra neste produto. 
+Descrição: Há três menções à palavra ‘e-mail’ na página, todas na seção ‘Não fique de fora!’. Ela aparece com e sem hífen, grafias diferentes, ambas corretas. Definir com os designers um padrão para a palavra neste produto. <br>
+Evidência: <br>
+<img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/fef36800-1b47-439d-afe4-114ced9cf28a" />
 
 Item 22 – Adicionar placeholder ao primeiro input da seção ‘Não fique de fora!’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: O campo ‘Nome’ na seção ‘Não fique de fora!’ precisa de um placeholder. Verificar no Figma e/ou com designers qual o placeholder deve ser usado nesse input.
+Descrição: O campo ‘Nome’ na seção ‘Não fique de fora!’ precisa de um placeholder. Verificar no Figma e/ou com designers qual o placeholder deve ser usado nesse input <br>
+Evidência: <br>
+<img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/e935df15-95be-42ec-b4d3-682c59b5d4e3" />
 
 Item 23 – Botão ‘Concluir’ está inativo  <br>
 Tipo: Correção  <br>
 Classificação: Utilidade <br>
 Prioridade: Alta <br>
-Descrição: Na seção ‘Não fique de fora!’ o botão Concluir não está funcionando. Habilitar o botão para inscrever os usuários na newsletter. 
+Descrição: Na seção ‘Não fique de fora!’ o botão Concluir não está funcionando. Ao clicar nele, um Toast Notification aparece no lado esquerdo da tela. Habilitar o botão para inscrever os usuários na newsletter. <br>
+Evidência: <br>
+![Item 23](https://github.com/user-attachments/assets/bcd9cf0f-3134-4fa3-b699-173ef474ecf6)
 
 Item 24 – Ajustes no botão ‘Concluir’ da seção ‘Não fique de fora!’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Ajustar a posição e cor do texto no botão ‘Concluir’. Aumentar o espaçamento do botão em relação ao campo ‘Telefone’ e alterar a cor do texto para #ffffff. (Verificar no Figma qual a cor correta, presumo que seja branco).
+Descrição: Aumentar o espaçamento do botão em relação ao campo ‘Telefone’. Também verificar cor do botão com status disabled, ele poderia ser todo cinza, não apenas o texto. 
+Evidência: <br>
+<img width="1435" height="420" alt="image" src="https://github.com/user-attachments/assets/4cb074e0-1794-49ee-a138-3a0768433dad" />
 
 Item 25 – Responsividade da seção ‘Não fique de fora!’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Quando o navegador tem o zoom diminuído, uma imagem aparece no plano de fundo. É um ícone de envelope em referência ao e-mail e newletter. Essa imagem aparece parcialmente com zoom em 100%, desaparece com zoom acima de 100% e é redimensionada conforme diminuímos o zoom, aparecendo por completo em zoom de 50%. Verificar com designers qual deveria ser o comportamento esperada da imagem de fundo nesta seção. 
+Descrição: Quando o navegador tem o zoom diminuído, uma imagem aparece no plano de fundo. É um ícone de envelope em referência ao e-mail e newletter. Essa imagem aparece parcialmente com zoom em 100%, desaparece com zoom acima de 100% e é redimensionada conforme diminuímos o zoom, aparecendo por completo em zoom de 50%. Verificar com designers qual deveria ser o comportamento esperada da imagem de fundo nesta seção. <br>
+Evidência: <br>
+![Item 25](https://github.com/user-attachments/assets/a0bd63d7-6dea-4d20-a8d9-68ef13b23739)
 
 Item 26 – Ícones com baixa qualidade <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Os ícones das bandeiras países, no seletor de “Telefone” da seção ‘Não fique de fora!’ estão com baixa qualidade. Atualizar os ícones com uma qualidade mais alta. 
+Descrição: Os ícones das bandeiras países, no seletor de “Telefone” da seção ‘Não fique de fora!’ estão com baixa qualidade. Atualizar os ícones com uma qualidade mais alta. <br>
+Evidência: <br>
 
 Item 27 – Ajuste no título da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: O título dessa seção não segue o padrão dos demais títulos da página, pois está sublinhado. Por favor, remover o sublinhado do título. 
+Descrição: O título dessa seção não segue o padrão dos demais títulos da página, pois está sublinhado. Por favor, remover o sublinhado do título. <br>
+Evidência: <br>
 
 Item 28 – Ajuste nas imagens e textos da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Por favor, ajuste o alinhamento das imagens e textos nos containers (cards). Atualmente o conteúdo está como justify-content: flex-start, mas deve ser alterado para center para garantir a simetria na página. 
+Descrição: Por favor, ajuste o alinhamento das imagens e textos nos containers (cards). Atualmente o conteúdo está como justify-content: flex-start, mas deve ser alterado para center para garantir a simetria na página. <br>
+Evidência: <br>
 
 Item 29 – Ajustes nos textos da seção ‘O que nossos alunos dizem?’ <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Por favor, coloque os depoimentos dos alunos entre aspas duplas e aumente o espaço entre o depoimento e o nome dos alunos, em todos os cards. 
+Descrição: Por favor, coloque os depoimentos dos alunos entre aspas duplas e aumente o espaço entre o depoimento e o nome dos alunos, em todos os cards. <br>
+Evidência: <br>
 
 Item 30 – Seção redes sociais <br>
 Tipo: Melhoria <br>
@@ -425,35 +481,48 @@ Item 31 – Verificar nome da faculdade <br>
 Tipo: Melhoria <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: Na seção Redes Sociais, verificar o nome correto da Instituição no card do Facebook. Confirmar se o nome correto é UNIEXEMPLO ou Faculdade Exemplo.
+Descrição: Na seção Redes Sociais, verificar o nome correto da Instituição no card do Facebook. Confirmar se o nome correto é UNIEXEMPLO ou Faculdade Exemplo. <br>
+Evidência: <br>
 
 Item 32 – Ajustes no rodapé secundário <br>
 Tipo: Melhoria <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: Preencher dados incompletos no rodapé secundário: CEP e Telefones aparecem com ‘x’. 
+Descrição: Preencher dados incompletos no rodapé secundário: CEP e Telefones aparecem com ‘x’. <br>
+Evidência: <br>
 
 Item 33 – Redes sociais no rodapé secundário <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Há 3 referências a redes sociais na página. Temos ícones e links no header, temos uma seção exclusiva para redes sociais e mais uma referência a elas no rodapé secundário. Verificar com os designers a possibilidade de excluir uma ou mais referências. Caso o time decida manter os logos das redes sociais no rodapé secundário, por favor ajustar alinhamentos horizontal e vertical, bem como atualizar os logos para que tenham o mesmo tamanho. Também adicionar o logo do X que não está presente nesse rodapé. 
+Descrição: Há 3 referências a redes sociais na página. Temos ícones e links no header, temos uma seção exclusiva para redes sociais e mais uma referência a elas no rodapé secundário. Verificar com os designers a possibilidade de excluir uma ou mais referências. Caso o time decida manter os logos das redes sociais no rodapé secundário, por favor ajustar alinhamentos horizontal e vertical, bem como atualizar os logos para que tenham o mesmo tamanho. Também adicionar o logo do X que não está presente nesse rodapé. <br>
+Evidência: <br>
  
 Item 34 – UNIEXEMPLO aparece nos rodapés. <br>
 Tipo: Melhoria <br>
 Classificação: Usabilidade <br>
 Prioridade: Média <br>
-Descrição: A palavra Uniexemplo aparece nos rodapés principal e secundário. Verificar novamente se o nome da instituição está correto e fazer as alterações que forem necessárias.  Além disso, o e-mail de contato informado no rodapé secundário é exemplo@uniex.com.br. Precisamos confirmar se esse é o e-mail correto e atual do cliente.
+Descrição: A palavra Uniexemplo aparece nos rodapés principal e secundário. Verificar novamente se o nome da instituição está correto e fazer as alterações que forem necessárias.  Além disso, o e-mail de contato informado no rodapé secundário é exemplo@uniex.com.br. Precisamos confirmar se esse é o e-mail correto e atual do cliente. <br>
+Evidência: <br>
 
 Item 35 – Ajustes no rodapé principal. <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Ajustar o texto do rodapé para que os itens ‘Institucional’, ‘Fale Conosco’ e ‘Política de Privacidade’ fiquem corretamente alinhados ao Copyright notice. Verificar no Figma a posição correta desses elementos e tamanhos de fonte. 
+Descrição: Ajustar o texto do rodapé para que os itens ‘Institucional’, ‘Fale Conosco’ e ‘Política de Privacidade’ fiquem corretamente alinhados ao Copyright notice. Verificar no Figma a posição correta desses elementos e tamanhos de fonte. <br>
+Evidência: <br>
 
 Item 36 – Design dos botões da página <br>
 Tipo: Melhoria <br>
 Classificação: Desejabilidade <br>
 Prioridade: Baixa <br>
-Descrição: Os botões da página não estão padronizados. Eles têm formatos diferentes, com corner-radius diferentes e inclusive, alguns tem formato pill (pílula). Verificar com designers se esses formatos estão corretos ou se devem ser padronizados.  
+Descrição: Os botões da página não estão padronizados. Eles têm formatos diferentes, com corner-radius diferentes e inclusive, alguns tem formato pill (pílula). Verificar com designers se esses formatos estão corretos ou se devem ser padronizados. <br>
+Evidência: <br>
 
+Item 37 – Contraste de cores no Toast Notification <br>
+Tipo: Melhoria <br>
+Classificação: Desejabilidade <br>
+Prioridade: Baixa <br>
+Descrição: O Toast Notification que aparece ao clicar no botão “Concluir”, na seção 'Não fique de fora', não está com um bom contraste entre cor de fundo (cinza escuro) e cor do texto (vermelho). Verificar se as cores estão de acordo com o Figma da página e/ou falar com designers. <br>
+Evidência: <br>
+<img width="1816" height="694" alt="image" src="https://github.com/user-attachments/assets/d430cb42-8b1c-431e-8e6e-559490e652f4" />
